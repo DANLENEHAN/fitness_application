@@ -1,0 +1,50 @@
+DS Project Desc/Functions 
+
+Nutrition: 
+- Food Database (7,793) can give food/ nutrition reports on all these. 
+- Food, calorie and macronutrients Tracker. Based on given sizes or user defined size. 
+- Calorie calculator. (Based on 5 formulas/ studies) 
+- Macronutrient calculator.
+- BMI calculator. 
+- Weight loss, gain and maintenance calorie/ diet plans based on calculators. 
+- Meal plans and recommendations. 
+- Recommend foods high in certain macros, vitamins etc. 
+
+User Profile:
+- Holds all stats, height, weight, age etc. 
+- Functions to set BMR, EER, BMI, set goal, add a day of eating etc. 
+
+Training: 
+- Give cardio examples and frequency to meet weight loss goals. 
+- Make strength/ hypertrophy programs based on entered stats. 
+
+<<Databases>>
+Food: 
+- All the original food Databses. 
+- Food number, group and name DF. 
+- Food, food group, type(High protein etc). 
+
+Training
+- Weight training exercises (Get from BS) 
+- Cardio exercises. (Calories burnt facts etc) 
+
+Other: 
+- Make a survey online. Give out free programs to all those that fill it out.
+
+
+
+
+To do: 
+
+Training portion:
+- Give programs to achieve weekly set and rep goals for hypertrophy.
+- Create strength programs based on percentages. 
+- Give cardio plans to go along with diet plans to create a deficit. 
+- Have an exercise database so users can see exercises based on chosen body-part. Exercises can also be split up into cardio, hypertrophy, strength, cal-esthetics etc. 
+
+Search option: 
+- User enters a word and the program returns all food items with that word in there name. 
+- User enters a word e.g. ban so banana would p come up.
+- Each entry would prompt a drop down list that the user could choose from. 
+- After the user chooses a food. They could then select a size. 
+- The user would be shown a list of all the sizes e.g. tbsp, 100g then custom so they could enter there amount in g ounces etc.
